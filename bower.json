@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-banner",
+  "authors": [
+    "rakesh singh <rake7h@gmail.com>"
+  ],
+  "description": "SASS component for bootstrap to create a banner on the top of the webpage.",
+  "main": "",
+  "keywords": [
+    "bootstrap",
+    "banner",
+    "sass",
+    "panel",
+    "alerts"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/visualapps/bootstrap-banner",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^4.1.0"
+  }
+}
